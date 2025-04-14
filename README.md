@@ -10,6 +10,8 @@ Exploratory Data Analysis (EDA): Uncovered insights about car prices and their r
 ![image](https://github.com/user-attachments/assets/89704c56-022d-4be0-83e2-0efa216b5a17)
 
 Data Preprocessing: Handled missing values, converted categorical data, and scaled numerical features.
+![image](https://github.com/user-attachments/assets/7e4c4472-3ad4-46fd-983a-87724e6ec247)
+
 
 Model Building: Trained multiple regression models and selected the best-performing one.
 
@@ -27,6 +29,7 @@ Ridge Regression
 Random Forest Regressor
 
 Gradient Boosting Regressor
+![image](https://github.com/user-attachments/assets/b7d07a29-21e6-4696-bf8c-abdb5cd9745b)
 
 📊 Key Insights
 Cars with fewer years of usage fetch higher prices.
